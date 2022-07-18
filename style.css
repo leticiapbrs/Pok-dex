@@ -17,6 +17,7 @@ body {
 }
 
 .pokemon-logo {
+  padding-top: 50px;
   height: 180px;
 }
 
@@ -50,32 +51,32 @@ body {
 }
 
 .steel {
-  background-color: #f4f4f4;
+  background-color: #8f8f8fa9;
 }
 
 .fire {
-  background-color: #fddfdf;
+  background-color: #f15151b7;
 }
 
 .grass {
-  background-color: #defde0;
+  background-color: #61aa66d3;
 }
 
 .electric {
-  background-color: #fcf7de;
+  background-color: #e4d487;
 }
 
 .water,
 .ice {
-  background-color: #def3fd;
+  background-color: #81b4cce0;
 }
 
 .ground {
-  background-color: #f4e7da;
+  background-color: #ca9764;
 }
 
 .rock {
-  background-color: #d5d5d4;
+  background-color: #665f5096;
 }
 
 .fairy {
@@ -103,11 +104,11 @@ body {
 }
 
 .fighting {
-  background-color: #e6e0d4;
+  background-color: #da9610;
 }
 
 .normal {
-  background-color: #f5f5f5;
+  background-color: #b9b9b9bb;
 }
 
 .card:hover {
@@ -139,7 +140,7 @@ body {
 
 @keyframes bounce {
   20% {
-    transform: translateY(-6px);
+    transform: translateY(-5px);
   }
   40% {
     transform: translateY(0px);
